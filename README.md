@@ -1,6 +1,6 @@
 # Guessing Game Project
 
-This project is created by Yazid TAHIRI ALAOUI as part of an assignment.
+This project is created by ME as part of an assignment.
 
 ## Date and Time
 Wed Dec 12 10:15:00 2024
